@@ -14,3 +14,6 @@ The tool also provides some helpful data visualizations of clustered genres and 
 
 # Further extension
 I am currently in the process of converting the tool to a web-app by building a front-end for it using Flask.
+
+# Credit
+This tool was inspired by Amolo Mavuduru's similar system.
